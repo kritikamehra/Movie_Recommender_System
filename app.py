@@ -32,4 +32,4 @@ if(st.button('Recommend')):
 
 
 # For movie posters: in recommend dedf ..fetch the index
-def fetch_poster(movie_id):
+# def fetch_poster(movie_id):
