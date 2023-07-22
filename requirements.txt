@@ -1,16 +1,3 @@
-scikit-learn
-numpy
-pickle
 streamlit
-xgboost
-streamlit-option-menu
+numpy
 pandas
-seaborn
-matplotlib
-sklearn
-nltk
-sys
-ast
-urllib3.util.retry
-requests
-Retry
